@@ -17,5 +17,26 @@
 		"isNationalWonder": true
 		"uniques": ["Free [Hollow Knight] appears", "Requires a [Bench] in all cities"]
 		"requiredTech": "Iron Working"
+	},
+        {
+		"name": "Les archives de l'érudite",
+		"uniqueTo": "Hallownest",
+		"cost": 400,
+		"hurryCostModifier": 150,
+		"happiness": 2,
+		"isNationalWonder": true
+		"uniques": ["]
+		"requiredTech": "Writing"
+	},
+        {
+		"name": "l'observatoire",
+		"uniqueTo": "Hallownest",
+		"cost": 400,
+		"hurryCostModifier": 150,
+		"happiness": 2,
+		"isNationalWonder": true
+		"uniques": ["]
+		"requiredTech": "optics"
 	}
 ]
+
