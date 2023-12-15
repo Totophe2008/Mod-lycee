@@ -15,7 +15,33 @@
 		"hurryCostModifier": 150,
 		"happiness": 7,
 		"isNationalWonder": true
-		"uniques": ["Free [Hollow Knight] appears", "Requires a [Bench] in all cities"]
+		"uniques": ["Free [Hollow Knight] appears", "Requires a [Bench] in all cities", "Requires l'antre de la bete", "Requires l'observatoire", "Requires Archivess de l'érudite"]
 		"requiredTech": "Iron Working"
-	}
+	},
+	{
+		"name": "Archives de l'érudite",
+		"uniqueTo": "Hallownest",
+		"cost": 250,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"uniques": ["gain 3 science"]
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "l'antre de la bete",
+		"uniqueTo": "Hallownest",
+		"cost": 170,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"requiredTech": "currency"
+	},
+	{
+		"name": "l'observatoire",
+		"uniqueTo": "Hallownest",
+		"cost": 280,
+		"hurryCostModifier": 150,
+		"isNationalWonder": true
+		"uniques": [
+		"requiredTech": "optics"
+]
 ]
