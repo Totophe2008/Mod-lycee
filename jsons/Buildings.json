@@ -41,7 +41,6 @@
 		"cost": 280,
 		"hurryCostModifier": 150,
 		"isNationalWonder": true
-		"uniques": [
+		"uniques": ["Triggers the following global alert: [vous vous sentez observé]"]
 		"requiredTech": "optics"
-]
 ]
