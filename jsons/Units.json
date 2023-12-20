@@ -2,7 +2,7 @@
   {
     "name": "Pure Vessel",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"] ,
+    "uniques": ["Unbuildable", "Can move after attacking", "no cost to great...]"],
     "strength": 30,
     "uniqueTo": "Hallownest",
     "movement": 3,
@@ -11,7 +11,7 @@
   {
     "name": "Pure Vessel 2",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"],
+    "uniques": ["Unbuildable", "Can move after attacking", "Comment [no mind to think...]"],
     "strength": 45,
     "uniqueTo": "Hallownest",
     "requiredTech": "Gunpowder",
@@ -21,9 +21,10 @@
   {
     "name": "Hollow Knight",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"],
+    "uniques": ["Unbuildable", "Can move after attacking", "Comment [no will to break...]"],
     "strength": 60,
     "uniqueTo": "Hallownest",
+	"quote": "no will to break...",
     "requiredTech": "Industrialization",
     "movement": 3,
     "upgradesTo": "Hollow Knight 2"
@@ -31,7 +32,7 @@
   {
     "name": "Hollow Knight 2",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"],
+    "uniques": ["Unbuildable", "Can move after attacking", "Comment [no voice to cry suffering]"],
     "strength": 80,
     "uniqueTo": "Hallownest",
     "requiredTech": "Replaceable Parts",
@@ -41,7 +42,7 @@
   {
     "name": "Hollow Knight 3",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"],
+    "uniques": ["Unbuildable", "Can move after attacking", "Comment [born of god and void...]"],
     "strength": 125,
     "uniqueTo": "Hallownest",
     "requiredTech": "Atomic Theory",
@@ -51,7 +52,7 @@
   {
     "name": "Hollow Knight 4",
     "unitType": "Sword",
-    "uniques": ["Unbuildable", "Can move after attacking"],
+    "uniques": ["Unbuildable", "Can move after attacking", "Comment [you are the one that will seal the light that plages their dreams...]"],
     "strength": 175,
     "uniqueTo": "Hallownest",
     "requiredTech": "Nuclear Fusion",
